@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 biopython
 pandas
@@ -8,3 +9,15 @@ sys
 os 
 scipy 
 statsmodels
+=======
+biopython 
+pandas
+seaborn
+matplotlib.plotpy
+numpy
+os
+sys
+scipy
+statsmodels
+streamlit
+>>>>>>> e2a693d9faca686ae0c816feb8f1c08111f52a7d
