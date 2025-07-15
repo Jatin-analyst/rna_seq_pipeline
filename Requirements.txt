@@ -1,7 +1,7 @@
 biopython 
 pandas
 seaborn
-matplotlib
+matplotlib.plotpy
 numpy
 os
 sys
