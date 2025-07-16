@@ -1,9 +1,8 @@
-pip install biopython (Bio.Sequtils)
-pip install pandas
-pip install seaborn
-pip install matplotlib
-pip install numpy
-pip install os
-pip install sys
-pip install scipy
-pip install statsmodels
+biopython
+pandas
+seaborn
+matplotlib
+numpy
+os
+scipy
+statsmodels
