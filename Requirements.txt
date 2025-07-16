@@ -2,9 +2,7 @@ biopython
 pandas
 seaborn
 matplotlib
-numpy
-sys
-os 
+numpy 
 scipy 
 statsmodels
 
