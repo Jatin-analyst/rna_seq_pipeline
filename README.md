@@ -18,14 +18,18 @@ This is a simple pipeline for analyzing RNA-Seq count matrix data and generating
 
 ##  How to Run
 
-""" run the Code in Demo file"""
+""" run the RNA_Pipeline App by link: https://rnaseqpipeline-jcag3pmmneschznrffnd69.streamlit.app/ """
 
 # Input Requirements:
 1. Expression Data: Table with genes as rows, smaples as columns.
 2. Metadata: Information about which samples belong to which group.
 3. At least 2 samples per group for statistical testing.
 
-# If user do not have a Such it can use Converter app.
+# If user do not have a .csv file Such it can use Converter app.
+
+""" run the Converter App by link:https://rnaseqpipeline-km5ve4dtxmv62rrpmpagbp.streamlit.app/ """ 
+
+Converter App used for converting .txt.gz to .csv file.
 
 # Steps:
 -- Click on "Browse" button.
@@ -67,5 +71,5 @@ some common patterns to look for:
 -- FDR correction: Accounts for testing thousands of genes.
 -- Multiple testing problem: When testing many genes, some will appear significant by chance.
  
-
+## IMPORTANT  RNA_Pipeline App for "DGE Analysis" & "Volcano plot" and Converter App for .txt.gz to .csv
  
